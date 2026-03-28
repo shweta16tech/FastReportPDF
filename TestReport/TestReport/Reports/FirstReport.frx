@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="03/11/2026 09:46:49" ReportInfo.Modified="03/11/2026 11:13:10" ReportInfo.CreatorVersion="2026.1.0.0">
+  <Dictionary>
+    <Parameter Name="Name" DataType="System.String" AsString=""/>
+    <Parameter Name="Email" DataType="System.String" AsString=""/>
+    <Parameter Name="Message" DataType="System.String" AsString=""/>
+  </Dictionary>
+  <ReportPage Name="Page1" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="56.7">
+      <TextObject Name="Text1" Left="226.8" Top="9.45" Width="236.25" Height="28.35" Text="My First Report" HorzAlign="Center" Font="Arial, 14pt, style=Bold"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="60.7" Width="718.2" Height="28.35"/>
+    <DataBand Name="Data1" Top="93.05" Width="718.2" Height="141.75">
+      <TextObject Name="Text2" Left="94.5" Top="18.9" Width="75.6" Height="18.9" Text="Name" HorzAlign="Right" Font="Arial, 14pt, style=Bold"/>
+      <TextObject Name="Text3" Left="94.5" Top="56.7" Width="75.6" Height="18.9" Text="Email" HorzAlign="Right" Font="Arial, 14pt, style=Bold"/>
+      <TextObject Name="Text4" Left="236.25" Top="18.9" Width="207.9" Height="18.9" Text="[Name]" Font="Arial, 10pt"/>
+      <TextObject Name="Text6" Left="236.25" Top="56.7" Width="207.9" Height="18.9" Text="[Email]" Font="Arial, 10pt"/>
+      <TextObject Name="Text9" Left="56.7" Top="94.5" Width="113.4" Height="28.35" Text="Message" HorzAlign="Right" Font="Arial, 14pt, style=Bold"/>
+      <TextObject Name="Text10" Left="236.25" Top="94.5" Width="207.9" Height="18.9" Text="[Message]" Font="Arial, 10pt"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="238.8" Width="718.2" Height="66.15">
+      <TextObject Name="Text7" Left="37.8" Top="18.9" Width="94.5" Height="18.9" Text="[Date]" Font="Arial, 10pt"/>
+      <TextObject Name="Text8" Left="633.15" Top="18.9" Width="94.5" Height="18.9" Text="[Page#]" Font="Arial, 10pt"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>

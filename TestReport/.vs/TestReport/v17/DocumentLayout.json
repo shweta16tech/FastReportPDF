@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tasks\\TestReport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744E4093-4AEA-42A8-9BE7-51C95209B2A9}|TestReport\\TestReport.csproj|e:\\tasks\\testreport\\testreport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744E4093-4AEA-42A8-9BE7-51C95209B2A9}|TestReport\\TestReport.csproj|solutionrelative:testreport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744E4093-4AEA-42A8-9BE7-51C95209B2A9}|TestReport\\TestReport.csproj|e:\\tasks\\testreport\\testreport\\reports\\firstreport.frx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{744E4093-4AEA-42A8-9BE7-51C95209B2A9}|TestReport\\TestReport.csproj|solutionrelative:testreport\\reports\\firstreport.frx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstReport.frx",
+              "DocumentMoniker": "E:\\Tasks\\TestReport\\TestReport\\Reports\\FirstReport.frx",
+              "RelativeDocumentMoniker": "TestReport\\Reports\\FirstReport.frx",
+              "ToolTip": "E:\\Tasks\\TestReport\\TestReport\\Reports\\FirstReport.frx",
+              "RelativeToolTip": "TestReport\\Reports\\FirstReport.frx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-11T04:59:21.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Tasks\\TestReport\\TestReport\\Program.cs",
+              "RelativeDocumentMoniker": "TestReport\\Program.cs",
+              "ToolTip": "E:\\Tasks\\TestReport\\TestReport\\Program.cs",
+              "RelativeToolTip": "TestReport\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAzwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T03:58:16.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
